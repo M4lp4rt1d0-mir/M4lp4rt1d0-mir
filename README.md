@@ -1,6 +1,6 @@
 ## Hi there 👋
-#Welcomo home my profile
-**M4lp4rt1d0-mir/M4lp4rt1d0-mir** is a ✨ _special_ ✨ repository
+## Welcomo home my profile
+**M4lp4rt1d0-mir** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
