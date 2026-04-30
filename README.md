@@ -1,5 +1,5 @@
-## Hi A'm M4lp4rt1d0-mir👋 Welcomo home my profile
- is a ✨ _special_ ✨
+## Hello, i'm M4lp4rt1d0-mir👋 Welcomo home my profile
+ is a ✨ _special_ ✨ profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
