@@ -1,5 +1,5 @@
-## Hi there 👋 Welcomo home my profile
-**M4lp4rt1d0-mir** is a ✨ _special_ ✨ repository
+## Hi A'm M4lp4rt1d0-mir👋 Welcomo home my profile
+ is a ✨ _special_ ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,3 +9,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
+
+
+##Thanks for visiting — happy coding! 😊
