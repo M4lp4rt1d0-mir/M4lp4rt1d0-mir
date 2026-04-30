@@ -10,6 +10,6 @@
 - 😄 Pronouns: He/Hin
 - ⚡ Fun fact: ...
 
-Employment contract: sbrennopqd@gmail.com
-Contact: breninho.35071@gmail.com
+Employment contract: sbrennopqd@gmail.com \n
+Contact: breninho.35071@gmail.com \n
 ##Thanks for visiting — happy coding! 😊
