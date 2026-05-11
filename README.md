@@ -4,7 +4,7 @@
 
 😊 Olá, eu sou o Breno Azevedo 👋 (M4lp4rt1d0-mir)
 
-### Engenheiro Ágil | Scrum Master | Desenvolvedor Full-Stack (Python e JavaScript)
+### Engenheiro Ágil | Scrum Master | Desenvolvedor Front-End Analista de Dados e Automação (Python e JavaScript)
 
 Sou um focado profissional em conversar complexidade técnica em valor de negação. Atuo na intervenção entre a agilidade e o desenvolvimento, garantindo entradas de alta performance através de metodologias ágeis e engenharia de software moderna.
 
