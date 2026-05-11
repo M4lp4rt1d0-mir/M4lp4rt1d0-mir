@@ -16,7 +16,7 @@ Sou um focado profissional em conversar complexidade técnica em valor de negaç
 ---
 
 ## 🛠️ Tecnologias e Habilidades
- Desenvolvimento Front-End: Experiência com interfaces modernas em JavaScript (ES6+) e Vue.JS, com foco em SPAs responsivas.<br>Engenharia de Dados: Especialista em extração e tratamento de grandes volumes de dados com Python (Pandas, NumPy). Agilidade: <brGestão de esquadrões como Scrum Master, facilitando ritos de Scrum e Kanban. Ferramentas: Domínio de Jira, Azure DevOps, Confluence e ServiceNow. 
+ Desenvolvimento Front-End: Experiência com interfaces modernas em JavaScript (ES6+) e Vue.JS, com foco em SPAs responsivas.<br>Engenharia de Dados: Especialista em extração e tratamento de grandes volumes de dados com Python (Pandas, NumPy). Agilidade: <br>Gestão de esquadrões como Scrum Master, facilitando ritos de Scrum e Kanban. Ferramentas: Domínio de Jira, Azure DevOps, Confluence e ServiceNow. 
 
 ### 💻 Desenvolvimento & Dados
 - **Front-End:** JavaScript (ES6+), Vue.js, HTML5, CSS3 (Designs 100% Responsivos).
