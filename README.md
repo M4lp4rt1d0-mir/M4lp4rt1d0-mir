@@ -1,34 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Breno%20Azevedo&fontSize=70" width="100%" />
+<p alinhar Front-end "centro": Experiência com interfaces modernas em JavaScript (ES6+) e Vue.JS, com foco em SPAs responsivas. *Engenharia de Dados: Especialista em extração e tratamento de grandes volumes de dados com Python (Pandas, NumPy). Agilidade: *Gestão de esquadrões como Scrum Master, facilitando ritos de Scrum e Kanban. Ferramentas: Domínio de Jira, Azure DevOps, Confluence e ServiceNow. "centro">
+  <imagem fonte="https://capsule-render.vercel.app/render?type=waving&cor=auto&alta=200&sessão=cabeçalho&texto=Breno%20Azevedo&tamanho da fonte=70" largura="100%" />
 </p>
 
 #Thanks para visitar — boa codificação! 😊 Olá, eu sou o Breno Azevedo 👋 (M4lp4rt1d0-mir)
 
-### Agile Engineer | Scrum Master | Desenvolvedor Full-Stack (Python & JavaScript)
+### Engenheiro Ágil | Scrum Master | Desenvolvedor Full-Stack (Python e JavaScript)
 
-[cite_start]Sou um profissional focado em converter complexidade técnica em valor de negócio[cite: 9]. [cite_start]Atuo na interseção entre a agilidade e o desenvolvimento, garantindo entregas de alta performance através de metodologias ágeis e engenharia de software moderna.[citar_iniciar]Atuo na intervenção entre a agilidade e o desenvolvimento, garantindo entradas de alta performance através de metodologias ágeis e engenharia de software moderna[citar: 9, 17].
+Sou um focado profissional em conversar complexidade técnica em valor de negação. Atuo na intervenção entre a agilidade e o desenvolvimento, garantindo entradas de alta performance através de metodologias ágeis e engenharia de software moderna.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4lp4rt1d0-mir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4lp4rt1d0-mir&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<dividir alinhar="centro">
+  <imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api?username=M4lp4rt1d0-mir&maisrar_ícones=verdadeiro&tema=drácula&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro"/>
+  <imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=M4lp4rt1d0-mir&layout=compacto&contagem_langs=7&tema=drácula"/>
+</dividir>
 
 ---
 
 ## 🛠️ Tecnologias e Habilidades
-  *Desenvolvimento Front-End: Experiência com interfaces modernas em JavaScript (ES6+) e Vue.JS, com foco em SPAs responsivas.       *Engenharia de Dados: Especialista em extração e tratamento de grandes volumes de dados com Python (Pandas, NumPy).  Agilidade:    *Gestão de squads como Scrum Master, facilitando ritos de Scrum e Kanban.  Ferramentas: Domínio de Jira, Azure DevOps,              Confluence e ServiceNow. 
+ *Desenvolvimento Front-End: Experiência com interfaces modernas em JavaScript (ES6+) e Vue.JS, com foco em SPAs responsivas. *Engenharia de Dados: Especialista em extração e tratamento de grandes volumes de dados com Python (Pandas, NumPy). Agilidade: *Gestão de esquadrões como Scrum Master, facilitando ritos de Scrum e Kanban. Ferramentas: Domínio de Jira, Azure DevOps, Confluence e ServiceNow. 
 
 ### 💻 Desenvolvimento & Dados
-- [citar_iniciar]**Front-End:** JavaScript (ES6+), Vue.js, HTML5, CSS3 (Designs 100% Responsivos)[citar: 25, 27, 29].
-- [citar_iniciar]**Back-End e Automação:** Python (Selenium, PyAutoGui), Lógica de Programação e POO[citar: 30, 33].
-- [citar_iniciar]**Engenharia de Dados:** Extração, limpeza e tratamento de dados com **Pandas** e **NumPy**.
-- [citar_iniciar]**Visualização de dados:** Criação de relatórios estratégicos com **Matplotlib**, **Nascido do mar** e **Energia BI**[citar: 32, 42].
+- **Front-End:** JavaScript (ES6+), Vue.js, HTML5, CSS3 (Designs 100% Responsivos).
+- **Back-End e Automação:** Python (Selenium, PyAutoGui), Lógica de Programação e POO.
+- **Engenharia de Dados:** Extração, limpeza e tratamento de dados com **Pandas** e **NumPy**.
+- **Visualização de dados:** Criação de relatórios estratégicos com **Matplotlib**, **Nascido do mar** e **Energia BI**.
 
 ### ⚡ Agilidade & Gestão
-- [citar_iniciar]**Estruturas:** Scrum (PSM I), Kanban, Lean, XP e SAFe 6[citar: 7, 38, 52].
-- [citar_iniciar]**Ferramentas:** Jira, Azure DevOps, Confluence, Trello e ServiceNow[citar: 53].
-- [citar_iniciar]**Mentoria:** Facilitação de esquadrões, gestão de conflitos e análise de métricas de eficiência[citar: 18, 19, 20].
-
+- **Estruturas:** Scrum (PSM I), Kanban, Lean, XP e SAFe 6.
+- **Ferramentas:** Jira, Azure DevOps, Confluence, Trello e ServiceNow.
+- **Mentoria:** Facilitação de esquadrões, gestão de conflitos e análise de métricas de eficiência.
 ---
 
 ## 📂 Projetos em Destaque
@@ -45,22 +44,22 @@ Aqui estão algumas das minhas repositórios que demonstram minhas competências
 ---
 
 ## 🎓 Formação e Certificações
-- [citar_iniciar]**Bacharelado:** Análise e Desenvolvimento de Sistemas - UNOPAR (2023-2025)[citar: 11].
-- [citar_iniciar]**Certificação:** Scrum Master Profissional™ I (PSM I) - Scrum.org[citar: 38, 39].
-- [citar_iniciar]**Especializações:** Gestão 3.0, Gestão de Projetos Ágeis e Dominando JIRA[citar: 41, 43, 49].
+- **Bacharelado:** Análise e Desenvolvimento de Sistemas - UNOPAR (2023-2025).
+- **Certificação:** Scrum Master Profissional™ I (PSM I) - Scrum.org.
+- **Especializações:** Gestão 3.0, Gestão de Projetos Ágeis e Dominando JIRA.
 
 ---
 
 ## 🌐 Idiomas
-- [citar_iniciar]🇧🇷 **Português:** Nativo [citar: 56]
-- [citar_iniciar]🇷🇺 **Russo:** Intermediário [citar: 58]
-- [citar_iniciar]🇺🇸 **Inglês / 🇩🇪 Alemão / 🇫🇷 Francês:** Básico [citar: 57, 58, 59]
+- 🇧🇷 **Português:** Nativo
+- 🇷🇺 **Russo:** Intermediário
+- 🇺🇸 **Inglês / 🇩🇪 Alemão / 🇫🇷 Francês:** Básico
 
 ---
 
 ## 📫 Vamos nos conectar?
-- [citar_iniciar]**LinkedIn:** [em/sbrenno](https://linkedin.com/in/sbrenno) [citar: 6]
-- [citar_iniciar]**E-mail Profissional:** [sbrennopqd@gmail.com](mailto:sbrennopqd@gmail.com) [citar: 4]
+- **LinkedIn:** [em/sbrenno](https://linkedin.com/in/sbrenno)
+- **E-mail Profissional:** [sbrennopqd@gmail.com](mailto:sbrennopqd@gmail.com)
 - **E-mail Pessoal:** [breninho.35071@gmail.com](mailto:breninho.35071@gmail.com)
 
 ---
