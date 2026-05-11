@@ -2,7 +2,7 @@
   <imagem fonte="https://capsule-render.vercel.app/render?type=waving&cor=auto&alta=200&sessão=cabeçalho&texto=Breno%20Azevedo&tamanho da fonte=70" largura="100%" />
 </p>
 
-#Thanks para visitar — boa codificação! 😊 Olá, eu sou o Breno Azevedo 👋 (M4lp4rt1d0-mir)
+😊 Olá, eu sou o Breno Azevedo 👋 (M4lp4rt1d0-mir)
 
 ### Engenheiro Ágil | Scrum Master | Desenvolvedor Full-Stack (Python e JavaScript)
 
