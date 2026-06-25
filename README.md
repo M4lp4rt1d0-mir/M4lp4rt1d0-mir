@@ -58,7 +58,7 @@ Aqui estão algumas das minhas repositórios que demonstram minhas competências
 ---
 
 ## 📫 Vamos nos conectar?
-- **LinkedIn:** [in/sbrenno](https://linkedin.com/in/sbrenno-scrum-master/)
+- **LinkedIn:** [in/sbrenno-scrum-master](https://linkedin.com/in/sbrenno-scrum-master/)
 - **E-mail Profissional:** [sbrennopqd@gmail.com](mailto:sbrennopqd@gmail.com)
 - **E-mail Pessoal:** [breninho.35071@gmail.com](mailto:breninho.35071@gmail.com)
 
