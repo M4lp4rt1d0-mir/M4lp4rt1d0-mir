@@ -32,7 +32,7 @@ Sou um focado profissional em conversar complexidade técnica em valor de negaç
 
 ## 📂 Projetos em Destaque
 
-Aqui estão algumas das minhas repositórios que demonstram minhas competências técnicas:
+Aqui estão alguns dos meus repositórios que demonstram minhas competências técnicas:
 
 | Projeto | Descrição | Pilha de tecnologia |
 | :--- | :--- | :--- |
